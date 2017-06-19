@@ -1,5 +1,5 @@
 # Summary
 
 * [Introducción](README.md)
-* [First Chapter](chapter1.md)
+* [¿Qué es la Inteligencia Artificial?](chapter1.md)
 
