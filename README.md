@@ -1,3 +1,4 @@
-# My Awesome Book
+# IAAR 101
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Aquí van a poder encontrar una introducción de a la inteligencia artificial
+
